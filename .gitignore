@@ -1,0 +1,14 @@
+# Environment and secrets
+.env
+venv/
+
+# Logs
+screener.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
